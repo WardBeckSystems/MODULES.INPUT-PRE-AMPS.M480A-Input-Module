@@ -1,5 +1,5 @@
 # 1975 - M480A - MIXER BUSSES IGV.jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -139,7 +139,7 @@ WE MarAn
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - MIXER BUSSES IGV.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/PHOTOS/1975 - M480A - MIXER BUSSES IGV.jpg",
  "sha256": "1aa6c1c1cc194a5557674a633958f39394701a188f67df95db6f17f225aad02a",
  "kind": "module",
  "models": [

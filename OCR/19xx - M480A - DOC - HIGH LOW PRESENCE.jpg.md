@@ -1,5 +1,5 @@
 # 19xx - M480A - DOC - HIGH LOW PRESENCE.jpg
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** unknown (unknown)
@@ -272,7 +272,7 @@ Ri9
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/19xx - M480A - DOC - HIGH LOW PRESENCE.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/MANUALS/19xx - M480A - DOC - HIGH LOW PRESENCE.jpg",
  "sha256": "96de1f1a03705d60a453fd38796c53583893d94ed77bd0d4762e551ac4b44829",
  "kind": "doc",
  "models": [

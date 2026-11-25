@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic - Back Flipped (2).jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -67,7 +67,7 @@ NOTES RESISTORS Tw 5%4 AND ALL 1. ALL CAPACITORS in MICROFARADS UNLESS OTHERWISE
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - Schematic - Back Flipped (2).jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/1975 - M480A - Schematic - Back Flipped (2).jpg",
  "sha256": "15ce2b34ae9f102f8f48da9bee7496d0f609723c90a837ad80688a9e0d18f342",
  "kind": "module",
  "models": [

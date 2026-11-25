@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic - Diff A and NOT A.jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -61,7 +61,7 @@ SM
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - Schematic - Diff A and NOT A.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/1975 - M480A - Schematic - Diff A and NOT A.jpg",
  "sha256": "5d79b30967690c4db76263ac1b0e2f9fc697f7772418c40974621917c9c760f7",
  "kind": "module",
  "models": [

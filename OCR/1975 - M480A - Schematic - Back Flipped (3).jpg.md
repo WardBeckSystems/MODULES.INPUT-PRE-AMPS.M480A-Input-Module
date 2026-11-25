@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic - Back Flipped (3).jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -169,7 +169,7 @@ b WJOT
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - Schematic - Back Flipped (3).jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/1975 - M480A - Schematic - Back Flipped (3).jpg",
  "sha256": "e477fba1722a3f976d71812424bd8c0251343bf1ae2d7a9ee0fa3daf4dfe1b7a",
  "kind": "module",
  "models": [

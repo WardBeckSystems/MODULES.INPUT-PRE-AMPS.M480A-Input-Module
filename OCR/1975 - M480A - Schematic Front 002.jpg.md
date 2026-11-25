@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic Front 002.jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -225,7 +225,7 @@ sololPFL
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - Schematic Front 002.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/1975 - M480A - Schematic Front 002.jpg",
  "sha256": "712be563a0632ee269ecd17f0fa92bb0d99a112115775712eeb2e1fd272163e1",
  "kind": "module",
  "models": [

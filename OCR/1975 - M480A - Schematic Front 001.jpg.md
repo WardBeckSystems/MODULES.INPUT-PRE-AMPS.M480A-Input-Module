@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic Front 001.jpg
-Wiki page: [M480A](../../../PAGES/M480A.md)
+Wiki page: [M480A](../../../../PAGES/M480A.md)
 
 
 - **Year:** 1975 (module estimate (family))
@@ -225,7 +225,7 @@ Pt?
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M480A/1975 - M480A - Schematic Front 001.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M480A/SCHEMATICS/1975 - M480A - Schematic Front 001.jpg",
  "sha256": "942711f5b06a5c0e81d0f6b12d300436d38363cc7416d23c975c3c32336db109",
  "kind": "module",
  "models": [
