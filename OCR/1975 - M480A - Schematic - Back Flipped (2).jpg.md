@@ -11,6 +11,19 @@ Wiki page: [M480A](../../../../PAGES/M480A.md)
 - **Size:** 4,627,558 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 324 × 432 mm, 1500 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–324 mm across, 0–432 mm up
+- **Outlines:** line 395 rings, 7,775 straight (15,501 mm) / 1,158 curved (1,605 mm); text 1,026 rings, 6,350 straight (6,915 mm) / 2,528 curved (3,504 mm)
+- **Centre lines:** 9,401 paths (165 closed); straight 13,711 mm, curved 286 mm; horizontal 4,127 mm, vertical 3,247 mm, diagonal 6,337 mm
+- **Circles and arcs:** 5 circles, 63 arcs; largest r 3.8 @ (226.0, 346.2), r 3.5 @ (121.8, 206.5), r 1.2 @ (306.6, 173.6), r 1.1 @ (262.3, 189.9)
+- **Closed boxes:** 3
+- **Words (OCR):** 173 in 145 lines: +I6v · R3O · 70 To · Mic · R34 · Ison NOMINAL · ci · R28 {131 620 8.2F · Cia · ojBm MAX · Iol }"Sk I5k · 25
+- **Wiring (first pass):** 117 connected wire groups from 588 runs; labelled ends: 190 mm → 4io|, R27, 3,C; 153 mm → L4(453, C26, 068; 137 mm → Czi, 68/6, R6, 5k; 134 mm → C2, 22/25-, Ri3, CRZ; 125 mm → 46, 22/25, Ri2 18o 2W, C3
+
+Every curve, box, word and wire group: [1975 - M480A - Schematic - Back Flipped (2) (traced).json](../SCHEMATICS/1975%20-%20M480A%20-%20Schematic%20-%20Back%20Flipped%20%282%29%20%28traced%29.json) (the CAD file: `1975 - M480A - Schematic - Back Flipped (2) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

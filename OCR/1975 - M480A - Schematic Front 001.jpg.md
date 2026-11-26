@@ -11,6 +11,19 @@ Wiki page: [M480A](../../../../PAGES/M480A.md)
 - **Size:** 4,511,622 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 324 mm, 2000 × 1500 px traced (0.216 mm/px)
+- **Ink extent:** 22–432 mm across, 5–307 mm up
+- **Outlines:** line 906 rings, 5,447 straight (8,145 mm) / 722 curved (866 mm); text 126 rings, 443 straight (320 mm) / 88 curved (94.7 mm)
+- **Centre lines:** 2,526 paths (20 closed); straight 4,202 mm, curved 26.2 mm; horizontal 2,358 mm, vertical 474 mm, diagonal 1,369 mm
+- **Circles and arcs:** 1 circles, 7 arcs; largest r 0.7 @ (343.9, 142.3)
+- **Closed boxes:** 2
+- **Words (OCR):** 98 in 88 lines: 1727 · Rad · R28 · Cle · Re3 · R77 · Res · co" · R36 · Cu7 · 379 C39 R8l · Ctl
+- **Wiring (first pass):** 52 connected wire groups from 410 runs; labelled ends: 121 mm → M486; 67 mm → M486, INPUT MC; 33 mm → INPUT MC, 480-02-C; 28 mm → INPUT MC, 480-02-C
+
+Every curve, box, word and wire group: [1975 - M480A - Schematic Front 001 (traced).json](../SCHEMATICS/1975%20-%20M480A%20-%20Schematic%20Front%20001%20%28traced%29.json) (the CAD file: `1975 - M480A - Schematic Front 001 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 9 words corrected)
