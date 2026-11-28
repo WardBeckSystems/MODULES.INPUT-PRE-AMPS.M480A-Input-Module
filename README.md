@@ -4,13 +4,12 @@ Ward-Beck Systems M480A, 1975|8. Wiki page: [M480A on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 25 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 2 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 8 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -55,7 +54,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1975 - M480A - Schematic Front 001.kicad_sch](KICAD/1975%20-%20M480A%20-%20Schematic%20Front%20001.kicad_sch)
 - [1975 - M480A - Schematic Front 002.kicad_sch](KICAD/1975%20-%20M480A%20-%20Schematic%20Front%20002.kicad_sch)
 - [M480A.kicad_sym](KICAD/M480A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
