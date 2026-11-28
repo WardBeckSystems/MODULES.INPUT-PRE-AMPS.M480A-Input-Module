@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1362 1107" font-family="Overpass Mono, Consolas, ui-monospace, monospace">
+<title>M480A Input Module: back panel, rear view of the connectors</title>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="292.6" y="53.8" font-size="22.0" dominant-baseline="middle" text-anchor="middle" fill="#1F1E1C" font-weight="700">Connector · rear view</text>
+<rect x="222.6" y="103.8" width="140.0" height="891.2" fill="#E9E4D4" stroke="#6D6A63" stroke-width="3.00"/>
+<rect x="232.6" y="139.4" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="153.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">1</text>
+<text x="220.6" y="153.4" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#2E6B34">MIC-IN-B+</text>
+<rect x="298.6" y="139.4" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="153.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">A</text>
+<text x="364.6" y="153.4" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#2E6B34">MIC-IN-B-</text>
+<rect x="232.6" y="258.2" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="272.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">4</text>
+<text x="220.6" y="272.1" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#1F5F8B">AUX+</text>
+<rect x="298.6" y="258.2" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="272.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">D</text>
+<text x="364.6" y="272.1" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F5F8B">AUX-</text>
+<rect x="232.6" y="297.8" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="311.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">5</text>
+<text x="220.6" y="311.8" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#1F5F8B">CUE-SOLO+</text>
+<rect x="298.6" y="297.8" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="311.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">E</text>
+<text x="364.6" y="311.8" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F5F8B">CUE-SOLO-</text>
+<rect x="232.6" y="337.4" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="351.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">6</text>
+<text x="220.6" y="351.3" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#1F5F8B">M1-OUT+</text>
+<rect x="298.6" y="337.4" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="351.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">F</text>
+<text x="364.6" y="351.3" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F5F8B">M1-OUT-</text>
+<rect x="232.6" y="376.9" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">7</text>
+<text x="220.6" y="390.9" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#1F5F8B">M2-OUT+</text>
+<rect x="298.6" y="376.9" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="390.9" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">H</text>
+<text x="364.6" y="390.9" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F5F8B">M2-OUT-</text>
+<rect x="232.6" y="495.8" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="509.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">10</text>
+<text x="220.6" y="509.8" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#2E6B34">FADER-RETURN-</text>
+<rect x="298.6" y="495.8" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="509.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">L</text>
+<text x="364.6" y="509.8" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#2E6B34">FADER-RETURN+</text>
+<rect x="232.6" y="614.5" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="628.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">13</text>
+<text x="220.6" y="628.5" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#2E6B34">LINE-IN-B+</text>
+<rect x="298.6" y="614.5" width="54.0" height="28.0" fill="#2E6B34" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="628.5" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">P</text>
+<text x="364.6" y="628.5" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#2E6B34">LINE-IN-B-</text>
+<rect x="232.6" y="733.4" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="747.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">16</text>
+<text x="220.6" y="747.4" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#1F5F8B">FADER-SEND+</text>
+<rect x="298.6" y="733.4" width="54.0" height="28.0" fill="#1F5F8B" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="747.4" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">T</text>
+<text x="364.6" y="747.4" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F5F8B">FADER-SEND-</text>
+<rect x="232.6" y="852.2" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="866.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">19</text>
+<text x="220.6" y="866.1" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">VEE-AUDIO-25V</text>
+<rect x="298.6" y="852.2" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="866.1" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">W</text>
+<rect x="232.6" y="891.8" width="54.0" height="28.0" fill="#333333" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="905.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">20</text>
+<text x="220.6" y="905.8" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#333333">COMMON</text>
+<rect x="298.6" y="891.8" width="54.0" height="28.0" fill="#FFFFFF" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="905.8" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63" font-weight="700">X</text>
+<rect x="232.6" y="931.3" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="259.6" y="945.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">21</text>
+<text x="220.6" y="945.3" font-size="17.0" dominant-baseline="middle" text-anchor="end" fill="#A52A22">VCC-AUDIO+25V</text>
+<rect x="298.6" y="931.3" width="54.0" height="28.0" fill="#A52A22" stroke="#6D6A63" stroke-width="1.50"/>
+<text x="325.6" y="945.3" font-size="15.0" dominant-baseline="middle" text-anchor="middle" fill="#FFFFFF" font-weight="700">Y</text>
+<text x="364.6" y="945.3" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#A52A22">PHANTOM+48V</text>
+<rect x="40.0" y="1043.0" width="24.0" height="24.0" fill="#2E6B34" stroke="none" stroke-width="0.00"/>
+<text x="74.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">input</text>
+<rect x="280.0" y="1043.0" width="24.0" height="24.0" fill="#1F5F8B" stroke="none" stroke-width="0.00"/>
+<text x="314.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">output</text>
+<rect x="520.0" y="1043.0" width="24.0" height="24.0" fill="#A52A22" stroke="none" stroke-width="0.00"/>
+<text x="554.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">power</text>
+<rect x="760.0" y="1043.0" width="24.0" height="24.0" fill="#333333" stroke="none" stroke-width="0.00"/>
+<text x="794.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">ground / shield</text>
+<rect x="1000.0" y="1043.0" width="24.0" height="24.0" fill="#7A4E2A" stroke="none" stroke-width="0.00"/>
+<text x="1034.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">control</text>
+<rect x="1240.0" y="1043.0" width="24.0" height="24.0" fill="#555555" stroke="none" stroke-width="0.00"/>
+<text x="1274.0" y="1055.0" font-size="16.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">other</text>
+</svg>
