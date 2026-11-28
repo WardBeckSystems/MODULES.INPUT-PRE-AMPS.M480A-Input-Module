@@ -1,5 +1,5 @@
 # 1975 - M480A - Schematic Front 002.jpg
-Wiki page: [M480A](../../../../PAGES/M480A.md)
+Wiki page: [M480A](../)
 
 
 - **Year:** 1975 (module estimate (family))

@@ -1,6 +1,6 @@
 # M480A Input Module · Input Pre Amps
 
-Ward-Beck Systems M480A, 1975|8. Wiki page: [M480A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M480A.html)
+Ward-Beck Systems M480A, 1975|8. Wiki page: [M480A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M480A-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
